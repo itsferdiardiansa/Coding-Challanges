@@ -8,7 +8,6 @@ function findLongestSubstring(str: string): number {
     console.log('STARTS: ', start)
     console.log('LONGEST: ', longest)
 
-
     if (charsMap[str[i]]) {
       start = Math.max(start, charsMap[str[i]])
     }
@@ -30,11 +29,40 @@ findLongestSubstring('thisisawesome')
 /**
  * t h i s i s a w e s o m e
  * 
- * {
- *    t: 1,
- *    h: 2,
- *    i: 3,
- *    s: 4,
- *    i: 5
- * }
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
+ * 
+ * 
+ * start: 0
+ * longest: 1
+ * charMaps: 
+ *  1
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
+ * 
+ * 
+ * start: 0
+ * longest: 2
+ * charMaps:
+ *  1   1
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
+ * 
+ * 
+ * start: 0
+ * longest: 3
+ * charMaps: 
+ *  1   2   3
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
+ * 
+ * 
+ * start: 0
+ * longest: 4
+ * charMaps: 
+ *  1   2   3   4
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
+ * 
+ * 
+ * start: 3
+ * longest: 4
+ * charMaps: 
+ *  1   2   5   4
+ * [t] [h] [i] [s] [i] [s] [a] [w] [e] [s] [o] [m] [e]
  */
