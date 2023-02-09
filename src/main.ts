@@ -9,7 +9,6 @@
 // import './number-line-jumps'
 // import './first-bad-version'
 // import './count-unique-values'
-// import './max-subarray'
 // import './find-longest-substring'
 
 // Frequency counter pauttern
@@ -20,7 +19,10 @@
 // Multiple pointers pattern
 // import './sum-zero'
 // import './count-unique-values'
-import './average-pair'
+// import './average-pair'
 
 // Divide and conquer pattern
 // import './search-insert-position'
+
+// Sliding Window Pattern
+import './max-subarray'
