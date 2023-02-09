@@ -14,12 +14,13 @@
 
 // Frequency counter pauttern
 // import './is-same-array'
-import './same-frequency'
-import './are-there-duplicates'
+// import './same-frequency'
+// import './are-there-duplicates'
 
 // Multiple pointers pattern
 // import './sum-zero'
 // import './count-unique-values'
+import './average-pair'
 
 // Divide and conquer pattern
 // import './search-insert-position'
