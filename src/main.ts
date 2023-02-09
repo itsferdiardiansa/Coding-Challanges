@@ -13,4 +13,8 @@
 // import './search-insert-position'
 // import './find-longest-substring'
 
-import './is-sama-array'
+// import './is-sama-array'
+
+// Multiple pointers pattern
+import './sum-zero'
+import './count-unique-values'

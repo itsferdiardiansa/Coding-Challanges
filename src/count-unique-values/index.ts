@@ -18,3 +18,5 @@ function countUniqueValue(arr: number[]): number {
 }
 
 const countDiff = [1, 1, 1, 1, 2, 2, 3, 4, 4, 4, 5, 5, 10, 10, 13, 13]
+
+console.log(countUniqueValue(countDiff))

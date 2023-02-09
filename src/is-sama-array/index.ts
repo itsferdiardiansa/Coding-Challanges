@@ -14,7 +14,6 @@ function same<T>(arr1: T[], arr2: T[]): boolean {
   console.log(JSON.stringify(arrCollection2, null, 2))
 
   for (let key in arrCollection1) {
-    console.log(key)
     if (!(<unknown>key as number ** 2 in arrCollection2)) {
       return false
     }
@@ -30,4 +29,4 @@ function same<T>(arr1: T[], arr2: T[]): boolean {
 let data1: number[] = [1, 2, 2]
 let data2: number[] = [1, 9, 4]
 
-console.log(same<number>(data1, data2))
+console.log(same<number >(data1, data2))
