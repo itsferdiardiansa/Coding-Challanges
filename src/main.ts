@@ -10,11 +10,16 @@
 // import './first-bad-version'
 // import './count-unique-values'
 // import './max-subarray'
-// import './search-insert-position'
 // import './find-longest-substring'
 
-// import './is-sama-array'
+// Frequency counter pauttern
+// import './is-same-array'
+import './same-frequency'
+import './are-there-duplicates'
 
 // Multiple pointers pattern
-import './sum-zero'
-import './count-unique-values'
+// import './sum-zero'
+// import './count-unique-values'
+
+// Divide and conquer pattern
+// import './search-insert-position'
