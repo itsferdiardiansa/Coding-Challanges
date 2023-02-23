@@ -11,6 +11,8 @@
 // import './count-unique-values'
 // import './find-longest-substring'
 
+import './number-of-pairs'
+
 // Frequency counter pauttern
 // import './is-same-array'
 // import './same-frequency'
@@ -36,7 +38,8 @@
 // import './largest-components'
 // import './shortest-path'
 // import './island-count'
-import './flood-fill'
+// import './flood-fill'
+// import './find-the-town-judge'
 
 // Kalibrr Basic Programming Aptitude
 // import './happy-number'
