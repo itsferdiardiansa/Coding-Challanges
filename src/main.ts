@@ -28,7 +28,7 @@ import './number-of-pairs'
 
 // Sliding Window Pattern
 // import './max-subarray-with-2-parameters'
-// import './min-sub-array'
+import './min-sub-array'
 // import './max-subarray'
 
 // Graph challanges
