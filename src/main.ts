@@ -11,7 +11,7 @@
 // import './count-unique-values'
 // import './find-longest-substring'
 
-import './number-of-pairs'
+// import './number-of-pairs'
 
 // Frequency counter pauttern
 // import './is-same-array'
@@ -28,7 +28,7 @@ import './number-of-pairs'
 
 // Sliding Window Pattern
 // import './max-subarray-with-2-parameters'
-import './min-sub-array'
+// import './min-sub-array'
 // import './max-subarray'
 
 // Graph challanges
@@ -43,3 +43,5 @@ import './min-sub-array'
 
 // Kalibrr Basic Programming Aptitude
 // import './happy-number'
+
+import './find-longest-palindrome'
