@@ -44,4 +44,6 @@
 // Kalibrr Basic Programming Aptitude
 // import './happy-number'
 
-import './find-longest-palindrome'
+// import './find-longest-palindrome'
+
+import './zigzag-conversion'
