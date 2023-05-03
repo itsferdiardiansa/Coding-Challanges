@@ -17,6 +17,7 @@
 // import './is-same-array'
 // import './same-frequency'
 // import './are-there-duplicates'
+import './duplicate-product'
 
 // Multiple pointers pattern
 // import './sum-zero'
@@ -46,4 +47,6 @@
 
 // import './find-longest-palindrome'
 
-import './zigzag-conversion'
+// import './zigzag-conversion'
+
+// import './generate-prime-numbers'
