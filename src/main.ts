@@ -17,7 +17,11 @@
 // import './is-same-array'
 // import './same-frequency'
 // import './are-there-duplicates'
-import './duplicate-product'
+// import './duplicate-product'
+
+// import './equal'
+
+import './make-palindrome'
 
 // Multiple pointers pattern
 // import './sum-zero'
