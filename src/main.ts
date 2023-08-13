@@ -21,7 +21,9 @@
 
 // import './equal'
 
-import './make-palindrome'
+// import './make-palindrome'
+
+import './merge-two-arrays'
 
 // Multiple pointers pattern
 // import './sum-zero'
