@@ -23,8 +23,10 @@
 
 // import './make-palindrome'
 
-import './longest-common-subsequence'
+// import './longest-common-subsequence'
 // import './jump-game'
+
+import './drawing-book'
 
 // Multiple pointers pattern
 // import './sum-zero'
